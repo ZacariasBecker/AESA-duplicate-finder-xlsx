@@ -1,0 +1,1 @@
+- Atendendo uma demanda real da Agência Executiva de Gestão das Águas do Estado da Paraíba, esse script permite encontrar dados duplicados em um arquivo XLSX.
